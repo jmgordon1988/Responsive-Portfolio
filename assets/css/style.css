@@ -1,0 +1,104 @@
+.portfolioimage {width: 159px;
+                height: 147px;
+                float: left;
+                transform: rotate(90deg);
+            }
+    
+.links {float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    word-spacing: 5px;
+    margin: 25px;
+}
+
+.outline {    border-bottom: 2px solid #cccccc;
+    padding: 39px;
+    background: #ffffff;
+}
+
+.header {background-color: #ffffff;
+}
+
+body {background-image: url('../images/circuit.png');
+    margin:0;
+    height: 100%;
+
+}
+
+.name {background: #4aaaa5;
+        color: white;
+        float: left;
+        margin-left: 13%;
+        margin-top: 0;
+        padding: 21px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+.aboutme {clear: both;
+        }
+
+.wrapper {width: 960px;
+        padding: 20px;
+        margin: 20px auto;
+        height: 415px;
+        background: #ffffff;
+        border: 2px solid #dddddd;
+        font-size: 21px;
+        color: #777777;
+    }
+.wrapper2 {width: 960px;
+        padding: 20px;
+        margin: 20px auto;
+        background: #ffffff;
+        border: 2px solid #dddddd;
+        font-size: 21px;
+        color: #777777;
+    }
+    .wrapper3 {width: 60%;
+        padding: 20px;
+        margin: 20px auto;
+        height: 75%;
+        background: #ffffff;
+        border: 2px solid #dddddd;
+        font-size: 21px;
+        color: #777777;
+        margin-bottom: 83px;
+    }
+
+
+.aboutmetext {font-size: 40px;
+            height: 100px;
+            color: #4aaaa5;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        border-bottom: 2px solid #cccccc;}
+
+.aboutmetext2 {font-size: 40px;
+            height: 74px;
+            color: #4aaaa5;
+        font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.footer {clear: both;
+        text-align: center;
+        background: #666666;
+        padding: 10px;
+        border-top: 20px solid #4aaaa5;
+        position: fixed;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+}
+
+.contactborder {border-bottom: 2px solid #cccccc;}
+
+
+#name, #email, #subject  {width: 100%;
+                    font-family: Georgia, 'Times New Roman', Times, serif;}
+
+.submit {background-color: #4aaaa5;
+        color: #ffffff;
+        text-align: center;
+        width: 94px;}
+
+.marginspace {margin-top: 10px;}
+
+.portfolioimagesmargin {margin: 7px;}
