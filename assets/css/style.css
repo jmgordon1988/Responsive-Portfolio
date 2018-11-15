@@ -103,7 +103,10 @@ body {background-image: url('../images/circuit.png');
 
 .portfolioimagesmargin {margin: 7px;}
 
-@media screen and (max-width : 980px){}
+@media screen and (max-width : 980px){
+    .wrapper{width: 800px;}
+    .wrapper2{width: 750px;}
+}
 
 @media screen and (max-width: 768px){
     .wrapper2{width: 666px; padding:14px;}
