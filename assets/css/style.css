@@ -102,3 +102,16 @@ body {background-image: url('../images/circuit.png');
 .marginspace {margin-top: 10px;}
 
 .portfolioimagesmargin {margin: 7px;}
+
+@media screen and (max-width : 980px){}
+
+@media screen and (max-width: 768px){}
+
+@media screen and (max-width: 640px) {
+    .header {position: static} 
+    .wrapper{width:450px; height: 600px;}
+    .portfolioimage{width: 250px; height: 250px;}
+    .paragraph{clear: both; width: 100%; height: 200px;}
+    .links{float:none; margin: 0px;}
+    .wrapper2{width:450px; height: 600px;
+    }}
